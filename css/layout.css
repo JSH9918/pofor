@@ -287,19 +287,26 @@ body[data-aos-duration="400"] [data-aos] {
   width: 30%;
   display: inline-block;
   vertical-align: top;
-  margin-left: 50px;
+  margin-left: 0px;
   background-color: skyblue;
-  padding: 30px;
   padding-top: 0px;
   border: #fff 10px solid;
+  height: 85%;
 }
 #profile .profilein #skill h3{
-  margin: 10px;
+  margin: ;
   font-size: 30px;
   font-weight: bold;
+  padding-top: 50px;
+  width: 100%;
+  background-color: skyblue;
+  border-bottom: 2px solid #b2d8e7;
+  padding-bottom: 30px;
 }
 #profile .profilein #skill ul{
   
+  background-color: skyblue;
+  padding: 40px;
 }
 #profile .profilein #skill ul li{
    
